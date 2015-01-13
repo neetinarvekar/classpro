@@ -1,0 +1,24 @@
+{
+  "name": "classpro",
+  "version": "0.1.0",
+  "description": "my ticket to get one million job",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "classpro",
+    "student",
+    "database",
+    "blog"
+  ],
+  "author": "neeti",
+  "license": "ISC",
+  "dependencies": {
+    "expess": "^4.10.7",
+    "hbs": "^2.8.0",
+    "path": "^0.11.14"
+  },
+  "devDependencies": {}
+}
